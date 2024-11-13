@@ -5,7 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"D:/Git/group5/GAME310_Final/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+				"D:/Git/group5/GAME310_Final/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"D:/Git/group5/GAME310_Final/Content/Characters/Mannequins/Animations/Quinn/MF_Run_Fwd.uasset",
+				"D:/Git/group5/GAME310_Final/Content/Levels/Tutorial.umap",
+				"D:/Git/group5/GAME310_Final/Content/_GENERATED/Brend/CubeGridToolOutput_0A2FB47C.uasset",
+				"D:/Git/group5/GAME310_Final/Content/_GENERATED/Brend/CubeGridToolOutput_797C7F26.uasset",
+				"D:/Git/group5/GAME310_Final/Content/Tutorial.umap"
 			]
 		}
 	]
