@@ -5,6 +5,16 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Git/group5/GAME310_Final/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"D:/Git/group5/GAME310_Final/Content/Characters/Mannequins/Animations/Quinn/MF_Run_Fwd.uasset",
+				"D:/Git/group5/GAME310_Final/Content/Levels/Tutorial.umap",
+				"D:/Git/group5/GAME310_Final/Content/_GENERATED/Brend/CubeGridToolOutput_0A2FB47C.uasset",
+				"D:/Git/group5/GAME310_Final/Content/_GENERATED/Brend/CubeGridToolOutput_797C7F26.uasset",
+				"D:/Git/group5/GAME310_Final/Content/Levels/_GENERATED/Brend/Box_49131D8B.uasset",
+				"D:/Git/group5/GAME310_Final/Content/Levels/_GENERATED/Brend/Stairs_5BDCD4EE.uasset",
+				"D:/Git/group5/GAME310_Final/Content/Levels/_GENERATED/Brend/Box_48B77E54.uasset",
+				"D:/Git/group5/GAME310_Final/Content/Levels/_GENERATED/Brend/Box_5CAD6C89.uasset",
+				"D:/Git/group5/GAME310_Final/Content/Levels/_GENERATED/Brend/Stairs_9CFCF2DD.uasset",
 				"C:/Users/matt1/OneDrive/Desktop/GitHub Projects/group5/GAME310_Final/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/9X/DUGZVRW9JDSRSDDJBSGU1E.uasset",
 				"C:/Users/matt1/OneDrive/Desktop/GitHub Projects/group5/GAME310_Final/Content/Enemies/AP_EnemyAI.uasset",
 				"C:/Users/matt1/OneDrive/Desktop/GitHub Projects/group5/GAME310_Final/Content/Enemies/BP_MeleeEnemy_AI.uasset",
@@ -26,11 +36,6 @@
 				"C:/Users/matt1/OneDrive/Desktop/GitHub Projects/group5/GAME310_Final/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/5N/D5DYJYAQ4FU9VHWBLZ25IT.uasset",
 				"C:/Users/matt1/OneDrive/Desktop/GitHub Projects/group5/GAME310_Final/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/T6/IOCMUXLG9EPJ98F2YPHL7K.uasset",
 				"C:/Users/matt1/OneDrive/Desktop/GitHub Projects/group5/GAME310_Final/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/EF/DHM989YBEJYVWQ6R3JZJUI.uasset",
-				"D:/Git/group5/GAME310_Final/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
-				"D:/Git/group5/GAME310_Final/Content/Characters/Mannequins/Animations/Quinn/MF_Run_Fwd.uasset",
-				"D:/Git/group5/GAME310_Final/Content/Levels/Tutorial.umap",
-				"D:/Git/group5/GAME310_Final/Content/_GENERATED/Brend/CubeGridToolOutput_0A2FB47C.uasset",
-				"D:/Git/group5/GAME310_Final/Content/_GENERATED/Brend/CubeGridToolOutput_797C7F26.uasset",
 				"D:/Git/group5/GAME310_Final/Content/Tutorial.umap"
 			]
 		}
